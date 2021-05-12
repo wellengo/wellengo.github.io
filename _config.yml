@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://wellengo.github.io/
+url: https://wellengo.github.io
 date_format: "ordinal"
 title: 伟伦伟论
 subtitle: "初出茅庐程序猿1.0"
@@ -11,7 +11,7 @@ keywords: 简介
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: https://wellengo.github.io/
+repository: wellengo.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
