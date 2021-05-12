@@ -1,19 +1,20 @@
-- name: Software Engineer Keywords
+- name: Developer Keywords
   keywords:
       - Java
       - C++
       - Python
       - Design Patterns
 
-- name: Mobile Developer Keywords
+- name: Gamer Keywords
   keywords:
-      - Android
-      - Reverse Engineering
+      - 中单
+      - Carry
+      - 辅助
 
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+# - name: Windows Developer Keywords
+#   keywords:
+#       - Win32 SDK
+#       - DuiLib
+#       - WTL
+#       - COM
+#       - WinDbg
